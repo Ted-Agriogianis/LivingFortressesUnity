@@ -1,0 +1,1110 @@
+fileFormatVersion: 2
+guid: 9946500cbfd4f418aae276b721192ae8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Marcello Front Hand (Sword)
+    21300002: Marcello Spritesheet_1
+    21300004: Gun Glow
+    21300006: Marcello Front Palm
+    21300008: Cell Pulse 1
+    21300010: Cell Pulse 2
+    21300012: Cell Pulse 3
+    21300014: Marcello Front Forearm
+    21300016: Marcello Front Shoulder
+    21300018: Marcello Head 1
+    21300020: Marcello Front Hand (Gun
+    21300022: Back Bandage
+    21300024: Front Bandage
+    21300026: Bloodstain
+    21300028: Marcello Pistol
+    21300030: Marcello Back Palm (Sword)
+    21300032: Back Bicep Satchel
+    21300034: Front Bicep Satchel
+    21300036: Marcello Front Thigh
+    21300038: Marcello Back Hand (Sword)
+    21300040: Marcello Back Palm (Gun)
+    21300042: Front Thigh Satchel
+    21300044: Marcello Head 2
+    21300046: Marcello Back Hand (Gun)
+    21300048: Back Thigh Satchel
+    21300050: Marcello Pelvis
+    21300052: Marcello Shirt
+    21300054: Marcello Front Foot
+    21300056: Marcello Back Foot
+    21300058: Marcello Back Thigh
+    21300060: Marcello Head 3
+    21300062: Marcello Sword
+    21300064: Marcello Back Shoulder
+    21300066: Back Jet Arm
+    21300068: Sword Glow
+    21300070: Marcello Jacket
+    21300072: Marcello Back Forearm
+    21300074: Front Jet Arm
+    21300076: Marcello Spritesheet_44
+    21300078: Marcello Front Jet
+    21300080: Marcello Back Jet
+    21300082: Marcello Spritesheet_47
+    21300084: Marcello Spritesheet_0
+    21300086: Slash
+    21300088: Player Projectile 1
+    21300090: Marcello Projectile 2
+    21300092: Marcello Projectile 3
+    21300094: Jet Exhaust
+    21300096: Sparkle
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marcello Front Hand (Sword)
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4618
+        width: 394
+        height: 337
+      alignment: 9
+      pivot: {x: 0.24779731, y: 0.7669348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a046149cdd49467687acf18a3a1aea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Glow
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 4326
+        width: 613
+        height: 674
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b1f2643644842358be45afba8033c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Front Palm
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 4618
+        width: 200
+        height: 312
+      alignment: 9
+      pivot: {x: -0.5619153, y: 0.836781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40158700e8209454c9039819c27d7bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell Pulse 1
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 4665
+        width: 171
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca91d865c8e248b3b98a33f8d670065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell Pulse 2
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 4669
+        width: 161
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742700476cbdb44b8912581620a97410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell Pulse 3
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 4667
+        width: 117
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd87ab8f501244278b64efa41d3d9e32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Front Forearm
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 4417
+        width: 345
+        height: 522
+      alignment: 9
+      pivot: {x: 0.60446036, y: 0.87493265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5e4c150020b42fd84e634701e23b7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Front Shoulder
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 4339
+        width: 256
+        height: 629
+      alignment: 9
+      pivot: {x: 0.53367233, y: 0.79660875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06aa43059fcc4dadbb3ba13a1bbda13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Head 1
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 3966
+        width: 834
+        height: 998
+      alignment: 9
+      pivot: {x: 0.51364464, y: 0.08951864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b72418e6fb54b829c24988adea26a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Front Hand (Gun
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4242
+        width: 442
+        height: 337
+      alignment: 9
+      pivot: {x: 0.2248946, y: 0.7669348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d56c323aec945db9bee6053b569f43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Bandage
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 4299
+        width: 249
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb260a636744647f88d9258a4c813b21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Bandage
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 4289
+        width: 321
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c259deabe074fa1ba67cb318c676b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloodstain
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 4414
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43120051a70df4b72bebcda5d4aee677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Pistol
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3490
+        width: 1026
+        height: 693
+      alignment: 9
+      pivot: {x: 0.21305487, y: 0.29348627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa30a2801934b1fb5fbc31ae09e489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Back Palm (Sword)
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 3969
+        width: 323
+        height: 264
+      alignment: 9
+      pivot: {x: 0.34808785, y: 0.67037314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac3dd5956f334dcf837a8674231cc2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Bicep Satchel
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4015
+        width: 302
+        height: 229
+      alignment: 9
+      pivot: {x: 0.3781431, y: 0.5714234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e856e49d40f24c799e7d7923cb3de74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Bicep Satchel
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 4113
+        width: 314
+        height: 270
+      alignment: 9
+      pivot: {x: 0.6171992, y: 0.42427844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15964210f476d451fab95595988f1c04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Front Thigh
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 3700
+        width: 352
+        height: 624
+      alignment: 9
+      pivot: {x: 0.6510128, y: 0.84074676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a4862e25934f9fbc3190f6321a153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Back Hand (Sword)
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 3600
+        width: 298
+        height: 284
+      alignment: 9
+      pivot: {x: 0.2530149, y: 0.8167501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67acd1f1a2314293bfcc9344ea19f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Back Palm (Gun)
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3592
+        width: 412
+        height: 312
+      alignment: 9
+      pivot: {x: 0.26116735, y: 0.720934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174461351eb224471accde68ff617ea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Thigh Satchel
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 3717
+        width: 308
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c52933c2df54e3d94dbce6dc602172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Head 2
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 2927
+        width: 842
+        height: 998
+      alignment: 9
+      pivot: {x: 0.50326055, y: 0.1010681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3851a2f4b2a404e897456e96897b21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Back Hand (Gun)
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 3201
+        width: 382
+        height: 343
+      alignment: 9
+      pivot: {x: 0.22150968, y: 0.8725892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec6f86abcd534f1994fa87a011091c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Thigh Satchel
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3248
+        width: 334
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96a8666599f42fdb1cc099e38b1d2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Pelvis
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3038
+        width: 675
+        height: 432
+      alignment: 9
+      pivot: {x: 0.522478, y: 0.7121384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8874602bc43e54af190e7e8c3d21022e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Shirt
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2219
+        width: 542
+        height: 727
+      alignment: 9
+      pivot: {x: 0.49300155, y: 0.13477235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcf02d1a58f64b91b4abb8cc85579cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Front Foot
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2418
+        width: 389
+        height: 594
+      alignment: 9
+      pivot: {x: 0.7221375, y: 0.9030597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe2d671e52a44bd2b94c7731a00707e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Back Foot
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2361
+        width: 410
+        height: 640
+      alignment: 9
+      pivot: {x: 0.54893017, y: 0.90553784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dcf142d2bae4b7481eb7c1d863d788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Back Thigh
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2633
+        width: 311
+        height: 585
+      alignment: 9
+      pivot: {x: 0.31705076, y: 0.791781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda731523ff004999a0f5b096fe9a42e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Head 3
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 1891
+        width: 842
+        height: 1001
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.09552349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00510a9881144bb3af4dc19785e4d2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Sword
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 637
+        height: 2120
+      alignment: 9
+      pivot: {x: 0.38090575, y: 0.16899376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1c711ae0084331b4e9cdedd780f1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Back Shoulder
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 1821
+        width: 214
+        height: 546
+      alignment: 9
+      pivot: {x: 0.34047464, y: 0.7917811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cbaf39374784d6fbf6a0f7691a3fd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Jet Arm
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 1837
+        width: 246
+        height: 549
+      alignment: 9
+      pivot: {x: 0.5770968, y: 0.11308469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0637a77b6c42447282f39666dc8371b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Glow
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 0
+        width: 478
+        height: 1538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d8e1578baa41b188daa1aac8306de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Jacket
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 62
+        width: 880
+        height: 1133
+      alignment: 9
+      pivot: {x: 0.5905185, y: 0.40960708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3479857ff6ae41818603579abc645b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Back Forearm
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 1171
+        width: 290
+        height: 542
+      alignment: 9
+      pivot: {x: 0.44417515, y: 0.9108583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c17a966f34834883a4ca4c5a9c7d105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Jet Arm
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1120
+        width: 290
+        height: 629
+      alignment: 9
+      pivot: {x: 0.522764, y: 0.11167978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b1313531b634c7e9930fd7de58801b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Front Jet
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 74
+        width: 803
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.78342384, y: 0.63433355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c9bd7a74f44f09b89f7f994379fed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Back Jet
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 81
+        width: 745
+        height: 989
+      alignment: 9
+      pivot: {x: 0.3930792, y: 0.5958835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3d117fe0caa49fe90b06ce847a4326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1889
+        width: 534
+        height: 472
+      alignment: 9
+      pivot: {x: 0.3493184, y: 0.8332002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8876aec92c3004988a442403db6b8fdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1941
+        width: 610
+        height: 322
+      alignment: 9
+      pivot: {x: 0.31412953, y: 0.6703783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc6c74705d904423ba539f79bd67835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1219
+        width: 232
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e7e79cdcc57415b9523ce6d86055be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Projectile 1
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1289
+        width: 176
+        height: 532
+      alignment: 9
+      pivot: {x: 0.5208456, y: 0.8275612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85895aab81ede4578a75756b03eb945e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Projectile 2
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1243
+        width: 220
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8358259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5107e375ea8d4407c98407ea20eb16d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcello Projectile 3
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1274
+        width: 187
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0.80960774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910db137efaa84fc090683ae38e3da43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Exhaust
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1560
+        width: 693
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0698ef9a5cc53474c812c91056b1f220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparkle
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1229
+        width: 147
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67972520182cc469eb6436546d2d2cf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 212f52e8df09f493084fb55fb94da927
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
